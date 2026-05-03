@@ -1,56 +1,6 @@
 # d365fo-adyen-pay-by-link-integration
 An open-source D365 Finance &amp; Operations integration that generates Adyen Pay by Link requests from confirmed sales orders and updates prepayment status through Dataverse and webhooks.
 
-d365fo-adyen-paybylink-integration
-│
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
-├── CHANGELOG.md
-│
-├── docs
-│   ├── overview.md
-│   ├── architecture.md
-│   ├── functional-flow.md
-│   ├── technical-design.md
-│   ├── setup-guide.md
-│   ├── dataverse-schema.md
-│   ├── adyen-api-payloads.md
-│   ├── webhook-processing.md
-│   └── security-considerations.md
-│
-├── src
-│   ├── xpp
-│   │   ├── tables
-│   │   ├── classes
-│   │   ├── enums
-│   │   ├── forms
-│   │   ├── data-entities
-│   │   ├── services
-│   │   └── security
-│   │
-│   ├── dataverse
-│   │   ├── tables
-│   │   ├── choices
-│   │   └── cloud-flows
-│   │
-│   └── integration
-│       ├── power-automate
-│       ├── azure-function
-│       └── sample-config
-│
-├── samples
-│   ├── create-payment-link-request.json
-│   ├── create-payment-link-response.json
-│   ├── webhook-authorisation-event.json
-│   └── d365fo-payment-update-request.json
-│
-└── assets
-    └── architecture-diagram-placeholder.png
-
-
-
-    Use:
 
 MIT License
 
