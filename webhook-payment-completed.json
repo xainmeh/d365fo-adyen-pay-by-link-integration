@@ -1,0 +1,11 @@
+{
+  "eventCode": "AUTHORISATION",
+  "success": "true",
+  "merchantReference": "USMF-SO000123-CUS001-5637144576",
+  "pspReference": "8812345678901234",
+  "eventDate": "2026-01-15T10:30:00Z",
+  "amount": {
+    "currency": "USD",
+    "value": 30000
+  }
+}

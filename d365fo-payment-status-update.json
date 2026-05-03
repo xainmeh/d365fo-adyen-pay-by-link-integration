@@ -1,0 +1,12 @@
+{
+  "legalEntity": "USMF",
+  "salesOrder": "SO000123",
+  "customerAccount": "CUS001",
+  "merchantReference": "USMF-SO000123-CUS001-5637144576",
+  "pspReference": "8812345678901234",
+  "paymentStatus": "Paid",
+  "prepaymentCovered": true,
+  "paidAmount": 300.00,
+  "currencyCode": "USD",
+  "lastWebhookDateTime": "2026-01-15T10:30:00Z"
+}
