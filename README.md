@@ -60,7 +60,7 @@ assets
 | docs/webhook-processing.md | Explains webhook processing and status update logic. |
 | docs/security-considerations.md | Documents security, PCI, and data protection considerations. |
 
-## MVP Scope
+## Scope
 
 The first version of this project should focus on a simple and realistic flow:
 
